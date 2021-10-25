@@ -1,0 +1,639 @@
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  #baner .context-container .contexts .author-name h3 {
+    font-size: 100px; }
+
+  #about-section .author-about-main .about-container {
+    padding: 35px 25px; }
+    #about-section .author-about-main .about-container .image-container {
+      max-width: 390px; }
+    #about-section .author-about-main .about-container .author-personal-info {
+      margin-top: 40px;
+      margin-left: 30px; } }
+@media (min-width: 768px) and (max-width: 991.98px) {
+  #baner .context-container .contexts .author-name h3 {
+    font-size: 90px; }
+
+  #about-section .author-about-main .about-container {
+    padding: 25px 25px; }
+    #about-section .author-about-main .about-container .author-about-content .author-tags {
+      margin: 0px 0 5px 0; }
+      #about-section .author-about-main .about-container .author-about-content .author-tags h5 {
+        line-height: 28px; }
+    #about-section .author-about-main .about-container .author-personal-info {
+      margin-top: 35px; }
+  #about-section .author-eduExp-section .eduExp-column .each-eduExp-item {
+    padding: 20px 12px 30px 25px; }
+    #about-section .author-eduExp-section .eduExp-column .each-eduExp-item h4 {
+      font-size: 24px; }
+    #about-section .author-eduExp-section .eduExp-column .each-eduExp-item p {
+      margin-top: 10px; }
+    #about-section .author-eduExp-section .eduExp-column .each-eduExp-item .date {
+      left: 20px; }
+
+  #blog-part .post-date {
+    width: 65px;
+    height: 65px; }
+    #blog-part .post-date span.day {
+      font-size: 20px; }
+    #blog-part .post-date span.month {
+      margin-top: -3px;
+      font-size: 14px; }
+  #blog-part .blog-wrapper .blog-item .image .overlay h4 {
+    font-size: 20px;
+    letter-spacing: 6px; } }
+@media (min-width: 576px) and (max-width: 767.98px) {
+  .sectionTitle h3 {
+    font-size: 28px; }
+
+  .main-menu {
+    right: 0;
+    bottom: 0;
+    left: auto;
+    top: auto; }
+    .main-menu .menuicon {
+      left: auto;
+      top: auto;
+      right: 10px;
+      bottom: 10px; }
+    .main-menu .mobile-navbar {
+      top: -10px;
+      width: 200px;
+      right: 7px; }
+
+  #baner .context-container .contexts .author-name h3 {
+    font-size: 76px; }
+  #baner .context-container .author-tag {
+    right: 80px;
+    bottom: 10px; }
+
+  #about-section .author-about-main .about-container {
+    padding: 25px 25px; }
+    #about-section .author-about-main .about-container .image-container {
+      max-width: 100%; }
+    #about-section .author-about-main .about-container .author-about-content .author-name h3 {
+      font-size: 28px;
+      margin-top: 15px; }
+    #about-section .author-about-main .about-container .author-about-content .author-tags {
+      margin: 0px 0 10px 0; }
+      #about-section .author-about-main .about-container .author-about-content .author-tags h5 {
+        font-size: 16px;
+        line-height: 23px; }
+    #about-section .author-about-main .about-container .author-about-content .author-link {
+      margin-top: 20px; }
+    #about-section .author-about-main .about-container .author-personal-info {
+      margin-top: 30px; }
+      #about-section .author-about-main .about-container .author-personal-info .title {
+        font-size: 20px;
+        margin-bottom: 15px; }
+      #about-section .author-about-main .about-container .author-personal-info ul li {
+        font-size: 15px; }
+        #about-section .author-about-main .about-container .author-personal-info ul li::before {
+          height: 19px; }
+  #about-section .author-eduExp-section {
+    margin-top: 50px; }
+    #about-section .author-eduExp-section .eduExp-column {
+      margin-bottom: 50px; }
+      #about-section .author-eduExp-section .eduExp-column .eduExp-sectionTitle {
+        padding-bottom: 8px; }
+        #about-section .author-eduExp-section .eduExp-column .eduExp-sectionTitle h3 {
+          font-weight: 600;
+          font-size: 28px; }
+      #about-section .author-eduExp-section .eduExp-column .eduExp-colContext .each-eduExp-item {
+        padding: 30px 15px 35px 25px; }
+        #about-section .author-eduExp-section .eduExp-column .eduExp-colContext .each-eduExp-item h4 {
+          font-size: 20px;
+          line-height: 28px; }
+        #about-section .author-eduExp-section .eduExp-column .eduExp-colContext .each-eduExp-item h5 {
+          font-size: 16px;
+          line-height: 24px;
+          padding-top: 0; }
+        #about-section .author-eduExp-section .eduExp-column .eduExp-colContext .each-eduExp-item p {
+          margin-top: 13px; }
+        #about-section .author-eduExp-section .eduExp-column .eduExp-colContext .each-eduExp-item .date {
+          left: 25px;
+          padding: 5px 15px;
+          font-size: 16px; }
+  #about-section .author-servicePricing-section {
+    margin-top: 60px; }
+    #about-section .author-servicePricing-section .servicePricing-wrapper .servicePrice-container ul li {
+      flex: 46%; }
+      #about-section .author-servicePricing-section .servicePricing-wrapper .servicePrice-container ul li .content {
+        padding-bottom: 20px; }
+        #about-section .author-servicePricing-section .servicePricing-wrapper .servicePrice-container ul li .content h4 {
+          font-size: 20px;
+          margin-bottom: 15px; }
+        #about-section .author-servicePricing-section .servicePricing-wrapper .servicePrice-container ul li .content p {
+          color: #444444; }
+      #about-section .author-servicePricing-section .servicePricing-wrapper .servicePrice-container ul li .price-circle {
+        bottom: -17px;
+        left: 25px; }
+        #about-section .author-servicePricing-section .servicePricing-wrapper .servicePrice-container ul li .price-circle .price-circle-inner {
+          width: 70px;
+          height: 70px; }
+          #about-section .author-servicePricing-section .servicePricing-wrapper .servicePrice-container ul li .price-circle .price-circle-inner::after {
+            border: 1.5px dashed #ffffff; }
+          #about-section .author-servicePricing-section .servicePricing-wrapper .servicePrice-container ul li .price-circle .price-circle-inner .price {
+            font-size: 15px; }
+      #about-section .author-servicePricing-section .servicePricing-wrapper .servicePrice-container ul li .price-value {
+        padding: 9px 15px 7px 105px; }
+        #about-section .author-servicePricing-section .servicePricing-wrapper .servicePrice-container ul li .price-value span {
+          font-size: 16px; }
+  #about-section .author-skills-section {
+    margin-top: 60px; }
+    #about-section .author-skills-section .circle-section .each-skills .circles .circle-text {
+      font-size: 15px; }
+    #about-section .author-skills-section .circle-section .each-skills .progress-property h4 {
+      font-size: 18px; }
+
+  #portfolio-part .portfolio-wrapper .filter-wrapper .portfolio-filter {
+    display: unset; }
+    #portfolio-part .portfolio-wrapper .filter-wrapper .portfolio-filter .title-text {
+      text-align: center; }
+      #portfolio-part .portfolio-wrapper .filter-wrapper .portfolio-filter .title-text h3 {
+        font-size: 26px; }
+    #portfolio-part .portfolio-wrapper .filter-wrapper .portfolio-filter .filter-buttons {
+      display: block;
+      position: relative;
+      margin-top: 20px; }
+      #portfolio-part .portfolio-wrapper .filter-wrapper .portfolio-filter .filter-buttons ul li a {
+        margin: 0 16px;
+        font-size: 16px; }
+      #portfolio-part .portfolio-wrapper .filter-wrapper .portfolio-filter .filter-buttons .btn-filter-wrapper {
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        -webkit-transform: translateY(-50%);
+        -moz-transform: translateY(-50%);
+        -o-transform: translateY(-50%);
+        -ms-transform: translateY(-50%);
+        right: 15px; }
+        #portfolio-part .portfolio-wrapper .filter-wrapper .portfolio-filter .filter-buttons .btn-filter-wrapper a span {
+          height: 2px; }
+          #portfolio-part .portfolio-wrapper .filter-wrapper .portfolio-filter .filter-buttons .btn-filter-wrapper a span::before {
+            height: 2px; }
+          #portfolio-part .portfolio-wrapper .filter-wrapper .portfolio-filter .filter-buttons .btn-filter-wrapper a span::after {
+            height: 2px; }
+  #portfolio-part .portfolio-wrapper .portfolio-items {
+    margin-top: 20px; }
+    #portfolio-part .portfolio-wrapper .portfolio-items .portfolio-single .porfolio-description-modal .modal-dialog .modal-content {
+      padding: 15px; }
+      #portfolio-part .portfolio-wrapper .portfolio-items .portfolio-single .porfolio-description-modal .modal-dialog .modal-content .close {
+        width: 57px;
+        height: 49px; }
+        #portfolio-part .portfolio-wrapper .portfolio-items .portfolio-single .porfolio-description-modal .modal-dialog .modal-content .close svg {
+          top: 16px; }
+      #portfolio-part .portfolio-wrapper .portfolio-items .portfolio-single .porfolio-description-modal .modal-dialog .modal-content .text .box-letter-title {
+        margin-top: 20px; }
+      #portfolio-part .portfolio-wrapper .portfolio-items .portfolio-single .porfolio-description-modal .modal-dialog .modal-content .text ul {
+        margin-top: 25px; }
+        #portfolio-part .portfolio-wrapper .portfolio-items .portfolio-single .porfolio-description-modal .modal-dialog .modal-content .text ul li {
+          font-size: 15px;
+          margin-bottom: 10px; }
+      #portfolio-part .portfolio-wrapper .portfolio-items .portfolio-single .porfolio-description-modal .modal-dialog .modal-content .preview-link {
+        margin-top: 15px; } }
+@media (min-width: 320px) and (max-width: 575.98px) {
+  p {
+    font-size: 14px;
+    line-height: 26px; }
+
+  .page-title {
+    padding: 20px 0 30px 0; }
+    .page-title .title span:not(.blank) {
+      width: 30px;
+      height: 30px;
+      line-height: 30px;
+      margin-left: -3px;
+      font-size: 20px; }
+      .page-title .title span:not(.blank)::before {
+        width: 7px;
+        height: 7px;
+        top: -3px; }
+
+  .box-letter-title span {
+    width: 20px;
+    height: 20px;
+    line-height: 20px;
+    font-size: 15px; }
+
+  .badges {
+    font-size: 13px; }
+
+  .video-icon {
+    width: 65px;
+    height: 65px; }
+    .video-icon svg {
+      width: 20px;
+      height: 20px; }
+
+  .sectionTitle h3 {
+    font-size: 26px; }
+
+  .btn-custom {
+    padding: 9px 18px;
+    font-size: 15px; }
+
+  .ColorSwitcher {
+    bottom: 0;
+    z-index: 9900 !important;
+    transform: none;
+    -webkit-transform: none;
+    -moz-transform: none;
+    -o-transform: none;
+    -ms-transform: none;
+    top: auto; }
+    .ColorSwitcher .ColorSwitcher__control {
+      width: 32px;
+      height: 32px; }
+    .ColorSwitcher .ColorSwitcher__switchs .ColorSwitcher__switch {
+      width: 20px;
+      height: 20px; }
+
+  .main-menu {
+    right: 0;
+    bottom: 0;
+    left: auto;
+    top: auto; }
+    .main-menu .menuicon {
+      left: auto;
+      top: auto;
+      width: 50px;
+      height: 50px;
+      right: 10px;
+      bottom: 10px; }
+      .main-menu .menuicon .icon-container {
+        display: inline-block; }
+        .main-menu .menuicon .icon-container .bar1,
+        .main-menu .menuicon .icon-container .bar2,
+        .main-menu .menuicon .icon-container .bar3 {
+          height: 2px;
+          width: 20px; }
+      .main-menu .menuicon.change .icon-container .bar1 {
+        transform: rotate(-45deg) translate(-4px, 3px);
+        -webkit-transform: rotate(-45deg) translate(-4px, 3px);
+        -moz-transform: rotate(-45deg) translate(-4px, 3px);
+        -o-transform: rotate(-45deg) translate(-4px, 3px);
+        -ms-transform: rotate(-45deg) translate(-4px, 3px); }
+      .main-menu .menuicon.change .icon-container .bar3 {
+        transform: rotate(45deg) translate(-8px, -8px);
+        -webkit-transform: rotate(45deg) translate(-8px, -8px);
+        -moz-transform: rotate(45deg) translate(-8px, -8px);
+        -o-transform: rotate(45deg) translate(-8px, -8px);
+        -ms-transform: rotate(45deg) translate(-8px, -8px); }
+    .main-menu .mobile-navbar {
+      top: -10px;
+      width: 160px;
+      right: 7px; }
+      .main-menu .mobile-navbar .mobile-nav li a {
+        font-size: 13px;
+        padding: 5px 0; }
+
+  #baner .background {
+    width: 100%; }
+    #baner .background::after {
+      position: absolute;
+      content: " ";
+      left: 0;
+      top: 0;
+      bottom: 0;
+      right: 0;
+      background: rgba(0, 0, 0, 0.6); }
+  #baner .context-container .contexts {
+    top: 45%; }
+    #baner .context-container .contexts .author-name h3 {
+      font-size: 60px; }
+  #baner .context-container .author-tag {
+    position: absolute;
+    right: 80px;
+    bottom: 10px; }
+    #baner .context-container .author-tag h5 {
+      font-size: 14px;
+      color: #ffffff; }
+
+  #about-section .author-about-main .about-container {
+    padding: 25px 15px; }
+    #about-section .author-about-main .about-container .image-container {
+      max-width: 390px; }
+    #about-section .author-about-main .about-container .author-about-content .author-name h3 {
+      font-size: 24px;
+      line-height: 32px;
+      margin-top: 15px; }
+    #about-section .author-about-main .about-container .author-about-content .author-tags {
+      margin: 0px 0 10px 0; }
+      #about-section .author-about-main .about-container .author-about-content .author-tags h5 {
+        font-size: 16px;
+        line-height: 23px; }
+    #about-section .author-about-main .about-container .author-about-content .author-link {
+      margin-top: 20px; }
+    #about-section .author-about-main .about-container .author-personal-info {
+      margin-top: 30px; }
+      #about-section .author-about-main .about-container .author-personal-info .title {
+        font-size: 18px;
+        margin-bottom: 15px; }
+      #about-section .author-about-main .about-container .author-personal-info ul li {
+        font-size: 14px; }
+        #about-section .author-about-main .about-container .author-personal-info ul li::before {
+          height: 19px; }
+  #about-section .author-eduExp-section {
+    margin-top: 35px; }
+    #about-section .author-eduExp-section .eduExp-column {
+      margin-bottom: 50px; }
+      #about-section .author-eduExp-section .eduExp-column .eduExp-sectionTitle {
+        padding-bottom: 8px; }
+        #about-section .author-eduExp-section .eduExp-column .eduExp-sectionTitle h3 {
+          font-weight: 600;
+          font-size: 26px; }
+      #about-section .author-eduExp-section .eduExp-column .eduExp-colContext .each-eduExp-item {
+        padding: 30px 15px 35px 25px; }
+        #about-section .author-eduExp-section .eduExp-column .eduExp-colContext .each-eduExp-item h4 {
+          font-size: 20px;
+          line-height: 28px; }
+        #about-section .author-eduExp-section .eduExp-column .eduExp-colContext .each-eduExp-item h5 {
+          font-size: 16px;
+          line-height: 24px;
+          padding-top: 0; }
+        #about-section .author-eduExp-section .eduExp-column .eduExp-colContext .each-eduExp-item p {
+          margin-top: 13px; }
+        #about-section .author-eduExp-section .eduExp-column .eduExp-colContext .each-eduExp-item .date {
+          left: 25px;
+          padding: 5px 15px;
+          font-size: 15px; }
+  #about-section .author-servicePricing-section {
+    margin-top: 60px; }
+    #about-section .author-servicePricing-section .servicePricing-wrapper .image {
+      align-self: center; }
+    #about-section .author-servicePricing-section .servicePricing-wrapper .servicePrice-container ul li {
+      max-width: 100%;
+      flex: 100%;
+      margin: 45px 6px 12px; }
+      #about-section .author-servicePricing-section .servicePricing-wrapper .servicePrice-container ul li .content {
+        padding-bottom: 18px; }
+        #about-section .author-servicePricing-section .servicePricing-wrapper .servicePrice-container ul li .content h4 {
+          font-size: 18px; }
+        #about-section .author-servicePricing-section .servicePricing-wrapper .servicePrice-container ul li .content p {
+          color: #444444; }
+      #about-section .author-servicePricing-section .servicePricing-wrapper .servicePrice-container ul li .price-circle {
+        bottom: -17px; }
+        #about-section .author-servicePricing-section .servicePricing-wrapper .servicePrice-container ul li .price-circle .price-circle-inner {
+          width: 60px;
+          height: 60px; }
+          #about-section .author-servicePricing-section .servicePricing-wrapper .servicePrice-container ul li .price-circle .price-circle-inner::after {
+            border: 1px dashed #ffffff; }
+          #about-section .author-servicePricing-section .servicePricing-wrapper .servicePrice-container ul li .price-circle .price-circle-inner .price {
+            font-size: 14px; }
+      #about-section .author-servicePricing-section .servicePricing-wrapper .servicePrice-container ul li .price-value {
+        padding: 9px 15px 7px 115px; }
+        #about-section .author-servicePricing-section .servicePricing-wrapper .servicePrice-container ul li .price-value span {
+          font-size: 16px; }
+  #about-section .author-skills-section {
+    margin-top: 60px; }
+    #about-section .author-skills-section .circle-section .each-skills .circles .circle-text {
+      font-size: 13px; }
+    #about-section .author-skills-section .circle-section .each-skills .progress-property {
+      text-align: center; }
+      #about-section .author-skills-section .circle-section .each-skills .progress-property h4 {
+        font-size: 18px; }
+
+  #portfolio-part .portfolio-wrapper .filter-wrapper .portfolio-filter {
+    display: unset; }
+    #portfolio-part .portfolio-wrapper .filter-wrapper .portfolio-filter .title-text {
+      text-align: center;
+      margin-bottom: 50px; }
+      #portfolio-part .portfolio-wrapper .filter-wrapper .portfolio-filter .title-text h3 {
+        font-size: 26px; }
+    #portfolio-part .portfolio-wrapper .filter-wrapper .portfolio-filter .filter-buttons {
+      display: block;
+      position: relative;
+      margin-top: 38px; }
+      #portfolio-part .portfolio-wrapper .filter-wrapper .portfolio-filter .filter-buttons ul {
+        display: flex;
+        align-items: center;
+        flex-wrap: wrap;
+        flex: 100%;
+        max-width: 100%;
+        margin-right: 0;
+        background: #f1f1f1;
+        text-align: center; }
+        #portfolio-part .portfolio-wrapper .filter-wrapper .portfolio-filter .filter-buttons ul li {
+          opacity: 0;
+          visibility: hidden;
+          display: none;
+          max-width: 50%;
+          flex: 50%; }
+          #portfolio-part .portfolio-wrapper .filter-wrapper .portfolio-filter .filter-buttons ul li.opened {
+            opacity: 1;
+            visibility: visible;
+            display: block; }
+          #portfolio-part .portfolio-wrapper .filter-wrapper .portfolio-filter .filter-buttons ul li a {
+            margin: 0 5px;
+            font-size: 15px; }
+            #portfolio-part .portfolio-wrapper .filter-wrapper .portfolio-filter .filter-buttons ul li a::before {
+              display: none; }
+      #portfolio-part .portfolio-wrapper .filter-wrapper .portfolio-filter .filter-buttons .btn-filter-wrapper {
+        position: absolute;
+        top: -30px;
+        right: 15px; }
+        #portfolio-part .portfolio-wrapper .filter-wrapper .portfolio-filter .filter-buttons .btn-filter-wrapper a span {
+          height: 2px; }
+          #portfolio-part .portfolio-wrapper .filter-wrapper .portfolio-filter .filter-buttons .btn-filter-wrapper a span::before {
+            height: 2px; }
+          #portfolio-part .portfolio-wrapper .filter-wrapper .portfolio-filter .filter-buttons .btn-filter-wrapper a span::after {
+            height: 2px; }
+  #portfolio-part .portfolio-wrapper .portfolio-items {
+    margin-top: 20px; }
+    #portfolio-part .portfolio-wrapper .portfolio-items .portfolio-single .porfolio-description-modal .modal-dialog .modal-content {
+      padding: 15px; }
+      #portfolio-part .portfolio-wrapper .portfolio-items .portfolio-single .porfolio-description-modal .modal-dialog .modal-content .close {
+        width: 49px;
+        height: 44px; }
+        #portfolio-part .portfolio-wrapper .portfolio-items .portfolio-single .porfolio-description-modal .modal-dialog .modal-content .close svg {
+          top: 12px; }
+      #portfolio-part .portfolio-wrapper .portfolio-items .portfolio-single .porfolio-description-modal .modal-dialog .modal-content .text .box-letter-title {
+        margin-top: 20px; }
+      #portfolio-part .portfolio-wrapper .portfolio-items .portfolio-single .porfolio-description-modal .modal-dialog .modal-content .text ul {
+        margin-top: 25px; }
+        #portfolio-part .portfolio-wrapper .portfolio-items .portfolio-single .porfolio-description-modal .modal-dialog .modal-content .text ul li {
+          font-size: 14px;
+          margin-bottom: 10px; }
+      #portfolio-part .portfolio-wrapper .portfolio-items .portfolio-single .porfolio-description-modal .modal-dialog .modal-content .preview-link {
+        margin-top: 15px; }
+
+  #blog-part .blog-header-wrapper {
+    margin-bottom: 35px;
+    margin-top: 11px; }
+    #blog-part .blog-header-wrapper .header-content {
+      position: relative;
+      padding: 14px 25px 14px 28px; }
+      #blog-part .blog-header-wrapper .header-content span {
+        font-size: 13px; }
+      #blog-part .blog-header-wrapper .header-content h3 {
+        margin-top: 16px; }
+  #blog-part .blog-wrapper .blog-item .image .overlay h4 {
+    font-size: 18px;
+    letter-spacing: 7px; }
+  #blog-part .blog-wrapper .blog-item .image .post-date {
+    width: 60px;
+    height: 60px;
+    bottom: 5px;
+    right: 10px; }
+    #blog-part .blog-wrapper .blog-item .image .post-date span {
+      display: block;
+      text-transform: uppercase; }
+      #blog-part .blog-wrapper .blog-item .image .post-date span.day {
+        font-size: 20px; }
+      #blog-part .blog-wrapper .blog-item .image .post-date span.month {
+        margin-top: -6px;
+        font-size: 14px; }
+  #blog-part .blog-wrapper .blog-item .blog-header {
+    padding: 11px 0 10px 0; }
+    #blog-part .blog-wrapper .blog-item .blog-header ul {
+      flex-wrap: wrap; }
+      #blog-part .blog-wrapper .blog-item .blog-header ul li {
+        flex: 100%;
+        max-width: 100%;
+        font-size: 13px;
+        margin-bottom: 5px; }
+  #blog-part .blog-wrapper .blog-item .blog-content h4 {
+    font-size: 18px;
+    margin-bottom: 8px;
+    line-height: 28px; }
+  #blog-part .blog-wrapper .blog-item .reading-time {
+    margin-bottom: 20px; }
+    #blog-part .blog-wrapper .blog-item .reading-time h6 {
+      margin-top: 17px; }
+  #blog-part .blog-wrapper .load-content {
+    margin-top: 30px;
+    margin-bottom: 30px; }
+
+  #full-blog-page .blogging-container .blog-box-title {
+    font-size: 20px;
+    margin-bottom: 40px; }
+  #full-blog-page .blogging-container .side-bar-title {
+    font-size: 20px; }
+  #full-blog-page .blogging-container #primary-blogging .blog-area .post .featured-image .entry-meta {
+    left: 0;
+    right: 0;
+    border-radius: 0;
+    transform: translateY(100%);
+    -webkit-transform: translateY(100%);
+    -moz-transform: translateY(100%);
+    -o-transform: translateY(100%);
+    -ms-transform: translateY(100%); }
+    #full-blog-page .blogging-container #primary-blogging .blog-area .post .featured-image .entry-meta span {
+      margin-right: 15px; }
+  #full-blog-page .blogging-container #primary-blogging .blog-area .post .post-heading .post-title {
+    margin-top: 35px; }
+  #full-blog-page .blogging-container #primary-blogging .blog-area .post .blog-contents p {
+    margin-bottom: 15px; }
+  #full-blog-page .blogging-container #primary-blogging .blog-area .post .blog-contents .video-icon {
+    opacity: 0.9; }
+  #full-blog-page .blogging-container #primary-blogging .blog-area .post .blog-contents .chapter-name h3 {
+    font-size: 18px; }
+  #full-blog-page .blogging-container #primary-blogging .blog-area .post .blog-contents blockquote {
+    font-size: 14px; }
+    #full-blog-page .blogging-container #primary-blogging .blog-area .post .blog-contents blockquote .icon svg {
+      width: 30px;
+      height: 30px; }
+  #full-blog-page .blogging-container #primary-blogging .blog-area .post .blog-contents .post-external-image .each-post-media {
+    padding: 0.1rem; }
+  #full-blog-page .blogging-container #primary-blogging #navbar-preview-post {
+    margin-bottom: 50px; }
+    #full-blog-page .blogging-container #primary-blogging #navbar-preview-post h3 {
+      font-size: 14px;
+      line-height: 23px; }
+  #full-blog-page .blogging-container #primary-blogging #related-post .related-wrapper .related-media-box {
+    flex: 50%;
+    max-width: 50%; }
+    #full-blog-page .blogging-container #primary-blogging #related-post .related-wrapper .related-media-box figure figcaption h4 {
+      font-size: 13px;
+      line-height: 21px; }
+  #full-blog-page .blogging-container #primary-blogging #comment-box-wrapper {
+    margin-bottom: 50px; }
+    #full-blog-page .blogging-container #primary-blogging #comment-box-wrapper .all-comments .comment-each .comment .comment-contexts p {
+      font-size: 13px; }
+  #full-blog-page .blogging-container #primary-blogging #comment-form-wrapper {
+    padding: 30px;
+    background: #fbfbfb;
+    margin-bottom: 50px;
+    box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.1);
+    -webkit-box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.1);
+    -moz-box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.1);
+    -o-box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.1);
+    -ms-box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.1); }
+    #full-blog-page .blogging-container #primary-blogging #comment-form-wrapper .comment-form form label {
+      font-size: 13px; }
+    #full-blog-page .blogging-container #primary-blogging #comment-form-wrapper .comment-form form .form-inputs-wrapper textarea,
+    #full-blog-page .blogging-container #primary-blogging #comment-form-wrapper .comment-form form .form-inputs-wrapper input {
+      font-size: 13px; }
+  #full-blog-page .blogging-container .secondary-side-blogging .side-bar-widget.search-bar .search-wrapper input[type="text"] {
+    font-size: 13px; }
+  #full-blog-page .blogging-container .secondary-side-blogging .side-bar-widget .category-list li a {
+    font-size: 13px; }
+  #full-blog-page .blogging-container .secondary-side-blogging .side-bar-widget.post-bars ul li .trdn-ctx .trdn-ctx-link .ctx-title {
+    font-size: 14px;
+    line-height: 23px; }
+  #full-blog-page .blogging-container .secondary-side-blogging .side-bar-widget.post-bars ul li .trdn-ctx .ctx-date {
+    font-size: 12px; }
+  #full-blog-page .blogging-container .secondary-side-blogging .side-bar-widget.social-link-bar ul {
+    display: flex;
+    flex-wrap: wrap; }
+    #full-blog-page .blogging-container .secondary-side-blogging .side-bar-widget.social-link-bar ul li {
+      display: flex;
+      flex: 50%;
+      margin-bottom: 14px;
+      align-items: center; }
+      #full-blog-page .blogging-container .secondary-side-blogging .side-bar-widget.social-link-bar ul li .social-lnk-image .img-link {
+        max-height: 28px;
+        width: auto;
+        pointer-events: none; }
+      #full-blog-page .blogging-container .secondary-side-blogging .side-bar-widget.social-link-bar ul li .social-context {
+        padding-left: 5px; }
+        #full-blog-page .blogging-container .secondary-side-blogging .side-bar-widget.social-link-bar ul li .social-context .ctx-link .ctx-title {
+          font-size: 13px;
+          text-transform: uppercase;
+          display: block;
+          line-height: 15px;
+          color: #000000; }
+        #full-blog-page .blogging-container .secondary-side-blogging .side-bar-widget.social-link-bar ul li .social-context .ctx-total {
+          font-size: 12px;
+          display: block;
+          color: #444444; }
+
+  #copyrights .copyright-content h6 {
+    line-height: 23px;
+    text-align: center; } }
+@media (min-width: 320px) and (max-width: 400px) {
+  #preloader-loader .wrapper-loader {
+    width: 50%; }
+    #preloader-loader .wrapper-loader .page-title {
+      padding: 18px 4px 30px 4px; }
+      #preloader-loader .wrapper-loader .page-title span {
+        width: 21px;
+        font-size: 16px; }
+    #preloader-loader .wrapper-loader .bar-outer .bar-text {
+      width: 100%;
+      text-align: center; } }
+@media (min-width: 401px) and (max-width: 575.98px) {
+  #preloader-loader .wrapper-loader .page-title {
+    padding: 18px 11px 30px 11px; }
+    #preloader-loader .wrapper-loader .page-title span {
+      width: 25px;
+      font-size: 16px; }
+  #preloader-loader .wrapper-loader .bar-outer .bar-text {
+    width: 100%;
+    text-align: center; } }
+@media (min-width: 576px) and (max-width: 767.98px) {
+  #preloader-loader .wrapper-loader .page-title {
+    padding: 18px 11px 30px 11px; }
+    #preloader-loader .wrapper-loader .page-title span {
+      width: 36px;
+      height: 36px;
+      line-height: 36px;
+      font-size: 26px; } }
+@media (min-width: 320px) and (max-width: 700px) {
+  .menu_home {
+    top: auto;
+    left: auto;
+    right: 0;
+    bottom: 0; } }
+
+/*# sourceMappingURL=responsive.css.map */

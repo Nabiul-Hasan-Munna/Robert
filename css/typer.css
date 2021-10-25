@@ -1,0 +1,44 @@
+.wrapper {
+  margin: 0 auto !important;
+  float: none;
+  max-width: 100%;
+  width: 1170px;
+}
+.cd-headline.clip span {
+  padding: 0.2em 0;
+  display: inline-block;
+  vertical-align: top;
+}
+.cd-headline.clip .cd-words-wrapper::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 2px;
+  height: 100%;
+  background-color: #ffffff;
+}
+.cd-words-wrapper {
+  display: inline-block;
+  position: relative;
+  text-align: left;
+}
+.cd-headline.clip b.is-visible {
+  opacity: 1;
+}
+.cd-words-wrapper {
+  display: inline-block;
+  position: relative;
+  text-align: left;
+}
+.cd-words-wrapper b {
+  opacity: 0;
+  display: inline-block;
+  position: absolute;
+  white-space: nowrap;
+  left: 0;
+  top: 0;
+}
+.cd-words-wrapper b.is-visible {
+  position: relative;
+}

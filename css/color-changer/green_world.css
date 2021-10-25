@@ -1,0 +1,320 @@
+/* COMMON CSS SWITCHER */
+.page-title .title span:not(.blank) {
+  background: #0e9280;
+}
+.box-letter-title span {
+  background: #0e9280;
+}
+.box-letter-title span.blank {
+  background: none;
+}
+.has-square-left::before {
+  border: 1px solid #0e9280;
+}
+.btn-custom {
+  background-image: linear-gradient(80deg, #0e9280, #08b4d3);
+}
+.btn-custom:hover {
+  background-image: linear-gradient(80deg, #08b4d3, #0e9280);
+}
+body.loaded section.active-section::before,
+body.loaded section.active-singlePage-section::before {
+  background: #0e9280;
+}
+.ColorSwitcher .ColorSwitcher__control {
+  background: #0e9280;
+}
+.main-menu .mobile-navbar .mobile-nav li.active a {
+  color: #0e9280;
+}
+.main-menu .main-nav.main-nav-visible li.active a {
+  color: #0e9280;
+}
+.main-menu .main-nav.main-nav-visible li a:hover svg {
+  color: #0e9280;
+}
+.main-menu .main-nav.main-nav-visible li.active a svg {
+  color: #0e9280;
+}
+/* BANER SECTION SWITCHER */
+#baner .context-container .contexts .author-name h3 {
+  -webkit-text-stroke: 1px #0e9280;
+}
+#baner .context-container .contexts .author-name .back-title {
+  color: #0e9280;
+}
+#baner .context-container .contexts .author-tag h5 .cd-words-wrapper::after {
+  background: #0e9280;
+}
+#baner
+  .context-container
+  .author-tag
+  h5.cd-headline.clip
+  .box-letter-title
+  span {
+  background: rgba(14, 146, 128, 0.7);
+}
+#baner .context-container .author-tag h5 .cd-words-wrapper::after {
+  background: #0e9280;
+}
+/* ABOUT SECTION SWITCHER */
+#about-section .author-about-main .about-container {
+  border: 1px solid #0e9280;
+}
+#about-section
+  .author-about-main
+  .about-container
+  .author-personal-info
+  ul
+  li::before {
+  background: #0e9280;
+}
+#about-section
+  .author-about-main
+  .about-container
+  .author-personal-info
+  ul
+  li
+  .bulet {
+  border: 1px solid #0e9280;
+}
+#about-section .author-eduExp-section .eduExp-column .eduExp-colContext {
+  border-left: 1px solid #0e9280;
+}
+#about-section
+  .author-eduExp-section
+  .eduExp-column
+  .eduExp-colContext
+  .each-eduExp-item {
+  border: 1px solid #0e9280;
+}
+#about-section
+  .author-eduExp-section
+  .eduExp-column
+  .eduExp-colContext
+  .each-eduExp-item
+  .bulet {
+  border: 1px solid #0e9280;
+}
+#about-section
+  .author-eduExp-section
+  .eduExp-column
+  .eduExp-colContext
+  .each-eduExp-item:hover
+  .bulet {
+  background: #0e9280;
+}
+#about-section
+  .author-eduExp-section
+  .eduExp-column
+  .eduExp-colContext
+  .each-eduExp-item::after {
+  background: #0e9280;
+}
+#about-section
+  .author-eduExp-section
+  .eduExp-column
+  .eduExp-colContext
+  .each-eduExp-item::before {
+  background: #0e9280;
+}
+#about-section
+  .author-eduExp-section
+  .eduExp-column
+  .eduExp-colContext
+  .each-eduExp-item:hover {
+  background: rgba(14, 146, 128, 0.1);
+}
+#about-section
+  .author-servicePricing-section
+  .servicePricing-wrapper
+  .servicePrice-container
+  ul
+  li
+  .price-circle
+  .price-circle-inner::before {
+  background: rgba(14, 146, 128, 0.2);
+}
+#about-section
+  .author-servicePricing-section
+  .servicePricing-wrapper
+  .servicePrice-container
+  ul
+  li
+  .price-value
+  span {
+  color: #0e9280;
+}
+#about-section
+  .author-skills-section
+  .circle-section
+  .each-skills
+  .diagram
+  div {
+  border-color: #0e9280 #0e9280 transparent transparent !important;
+}
+
+/* PORTFOLIO COLOR-SWITCHER */
+#portfolio-part
+  .portfolio-wrapper
+  .filter-wrapper
+  .portfolio-filter
+  .filter-buttons
+  ul
+  li
+  a.active::first-letter {
+  color: #0e9280;
+}
+#portfolio-part
+  .portfolio-wrapper
+  .filter-wrapper
+  .portfolio-filter
+  .filter-buttons
+  ul
+  li
+  a::before {
+  border: 1px solid #0e9280;
+}
+#portfolio-part
+  .portfolio-wrapper
+  .portfolio-items
+  .portfolio-single
+  .each-item
+  .image
+  .overlay::before {
+  background: #0e9280;
+}
+#portfolio-part
+  .portfolio-wrapper
+  .portfolio-items
+  .portfolio-single
+  .porfolio-description-modal
+  .modal-dialog
+  .modal-content
+  .close {
+  background: #0e9280;
+}
+.box-letter-title span {
+  background: #0e9280;
+}
+
+/* CONTACT PART SWITCHER START */
+#contact-part
+  .contact-formap-wrapper
+  .contact-form-wrapper
+  form
+  .contact-inputs-wrapper
+  input:focus,
+#contact-part
+  .contact-formap-wrapper
+  .contact-form-wrapper
+  form
+  .contact-inputs-wrapper
+  textarea:focus {
+  border-color: rgba(14, 146, 128, 0.3);
+}
+#contact-part .contact-address-wrapper .each-info {
+  border: 1px solid #0e9280;
+}
+
+/* BLOG SWITCHER START */
+#blog-part .blog-wrapper .blog-item .image .overlay::before {
+  background: #0e9280;
+}
+#blog-part .blog-wrapper .blog-item .image .post-date {
+  background-color: #0e9280;
+}
+#blog-part .blog-wrapper .blog-item .reading-time h6::before {
+  background: #0e9280;
+}
+#blog-part .blog-wrapper .blog-item .blog-link a:hover {
+  color: #0e9280;
+}
+#blog-part .blog-wrapper .blog-item .blog-link a::before {
+  border: 1px solid #0e9280;
+}
+#blog-part .blog-wrapper .blog-item .blog-link a::after {
+  border: 1px solid #0e9280;
+}
+
+/* FULL PAGE BLOG SWITCHER */
+#full-blog-page
+  .blogging-container
+  #primary-blogging
+  .blog-area
+  .post
+  .featured-image
+  .entry-meta
+  span
+  svg {
+  color: #0e9280;
+}
+#full-blog-page
+  .blogging-container
+  #primary-blogging
+  .blog-area
+  .post
+  .post-heading
+  .post-title {
+  color: #0e9280;
+}
+#full-blog-page
+  .blogging-container
+  #primary-blogging
+  .blog-area
+  .post
+  .blog-contents
+  blockquote
+  .icon
+  svg {
+  color: #0e9280;
+}
+#full-blog-page
+  .blogging-container
+  #primary-blogging
+  #navbar-preview-post
+  h3:hover {
+  color: #0e9280;
+}
+#full-blog-page
+  .blogging-container
+  #primary-blogging
+  #comment-box-wrapper
+  .all-comments
+  .comment-each
+  .comment
+  .reply
+  .comment-reply:hover {
+  color: #0e9280;
+}
+#full-blog-page
+  .blogging-container
+  #primary-blogging
+  #comment-form-wrapper
+  .comment-form
+  form
+  .form-inputs-wrapper
+  textarea:focus,
+#full-blog-page
+  .blogging-container
+  #primary-blogging
+  #comment-form-wrapper
+  .comment-form
+  form
+  .form-inputs-wrapper
+  input:focus {
+  border-color: rgba(14, 146, 128, 0.3);
+}
+/* SIDE PARt DESIGN */
+#full-blog-page
+  .blogging-container
+  .secondary-side-blogging
+  .side-bar-widget.search-bar
+  .search-wrapper
+  input[type="text"]:focus {
+  border-color: rgba(14, 146, 128, 0.3);
+}
+/* Footer Part Design */
+.copyrights .copyright-content h6 span a {
+  color: #0e9280;
+}

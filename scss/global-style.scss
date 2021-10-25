@@ -1,0 +1,28 @@
+// MIX IN TRANSFORM FUNCTIONALITY STARTS
+@mixin transform($property) {
+    transform: $property;
+    -webkit-transform: $property;
+    -moz-transform: $property;
+    -o-transform: $property;
+    -ms-transform: $property;
+  }
+  // MIX IN TRANSFORM FUNCTIONALITY ENDS
+// MIX IN BOX SHADOW FUNCTIONALITY STARTS
+@mixin shadowbox($property) {
+    box-shadow: $property;
+    -webkit-box-shadow: $property;
+    -moz-box-shadow: $property;
+    -o-box-shadow: $property;
+    -ms-box-shadow: $property;
+  }
+  // MIX IN BOX SHADOW FUNCTIONALITY ENDS
+// MIX IN TRANSITION FUNCTIONALITY STARTS
+@mixin transition($property) {
+    transition: $property;
+    -webkit-transition: $property;
+    -moz-transition: $property;
+    -o-transition: $property;
+    -ms-transition: $property;
+  }
+  // MIX IN TRANSITION FUNCTIONALITY ENDS
+  
